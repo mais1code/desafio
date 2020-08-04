@@ -1,0 +1,39 @@
+@charset "UTF8";
+
+/* utility classes */
+  .text-center {
+    text-align: center;
+  }
+ .title {
+      color: white;
+  }
+
+.center {
+  margin: auto;
+  background-color: #aaaaa5;
+  width: 48%;
+  border: 3px solid gray;
+  padding: 10px;
+  
+}
+
+  #interface {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(156,64,191,1) 0%);
+    margin: 30px 50px;
+    padding: 10px;
+  }
+
+  #msg{
+    width: 50%;
+    border: 2px solid #aaa;
+    border-radius: 4px;
+    margin: 8px;
+    outline: none;
+    padding: 45px;
+    box-sizing: border-box;
+    
+  }
+
+
+
